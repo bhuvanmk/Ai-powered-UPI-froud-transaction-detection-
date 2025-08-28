@@ -44,17 +44,38 @@ Optional Notes
 	•	AI models can be customized or replaced for better accuracy based on dataset size and features.
 
 Screenshots
+<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 10 03 PM" src="https://github.com/user-attachments/assets/ad04193d-fd2c-4e50-8623-bc17e9310344" />
 
-<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 13 26 PM" src="https://github.com/user-attachments/assets/fd71dd81-6188-48c6-aed7-7596f9798fab" />
-<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 11 28 PM" src="https://github.com/user-attachments/assets/50fcd746-8c3d-40ee-84f3-e3987e4b61cc" />
-<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 11 10 PM" src="https://github.com/user-attachments/assets/60f99c3f-49dc-4fc2-8bfc-22bc3cf598c7" />
-<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 10 46 PM" src="https://github.com/user-attachments/assets/add31ef0-7ce5-4182-8b8d-fe1521141216" />
-<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 10 22 PM" src="https://github.com/user-attachments/assets/df53371f-5a18-4e06-9e95-52819e785d63" />
-<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 10 11 PM" src="https://github.com/user-attachments/assets/4c96156a-6d83-484e-9331-cf5f3340f6b6" />
-<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 10 03 PM" src="https://github.com/user-attachments/assets/d32051a8-6ff8-4cea-92e6-b3e65925e164" />
-<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 14 41 PM" src="https://github.com/user-attachments/assets/c2836355-7634-4ee4-b99b-f3226b294d09" />
-<img width="2940" height="1912" alt="Screenshot 2025-08-28 at 10 14 04 PM" src="https://github.com/user-attachments/assets/b191a5de-1a8a-46af-a921-d229024208e8" />
+<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 10 11 PM" src="https://github.com/user-attachments/assets/b2f1643a-007f-4a6a-8a83-762423fc2693" />
+
+<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 10 22 PM" src="https://github.com/user-attachments/assets/8d143af1-953d-4086-a446-199634ff17b5" />
+
+<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 10 46 PM" src="https://github.com/user-attachments/assets/427395a7-4959-4633-b109-8e77391b2b48" />
+
+<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 14 41 PM" src="https://github.com/user-attachments/assets/662fb520-de8f-46d3-b726-6f40727de846" />
+a56" />
+
+ <img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 11 10 PM" src="https://github.com/user-attachments/assets/1b2fb773-11eb-4f60-afb9-af5f11fc8" />
+
+<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 13 26 PM" src="https://github.com/user-attachments/assets/166def1f-b43c-4bb9-a014-ec5325c7d758" />
+
+<img width="2940" height="1912" alt="Screenshot 2025-08-28 at 10 14 04 PM" src="https://github.com/user-attachments/assets/ac8badaf-b5a3-4457-9065-481dcd3b9c8b" />
 
 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
