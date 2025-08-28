@@ -44,6 +44,7 @@ Optional Notes
 	•	AI models can be customized or replaced for better accuracy based on dataset size and features.
 
 Screenshots
+
 <img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 10 03 PM" src="https://github.com/user-attachments/assets/ad04193d-fd2c-4e50-8623-bc17e9310344" />
 
 <img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 10 11 PM" src="https://github.com/user-attachments/assets/b2f1643a-007f-4a6a-8a83-762423fc2693" />
@@ -52,10 +53,7 @@ Screenshots
 
 <img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 10 46 PM" src="https://github.com/user-attachments/assets/427395a7-4959-4633-b109-8e77391b2b48" />
 
-<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 14 41 PM" src="https://github.com/user-attachments/assets/662fb520-de8f-46d3-b726-6f40727de846" />
-a56" />
-
- <img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 11 10 PM" src="https://github.com/user-attachments/assets/1b2fb773-11eb-4f60-afb9-af5f11fc8" />
+<img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 11 10 PM" src="https://github.com/user-attachments/assets/533aad52-7447-46ef-9b8e-22f73ee27539" />
 
 <img width="1470" height="956" alt="Screenshot 2025-08-28 at 10 13 26 PM" src="https://github.com/user-attachments/assets/166def1f-b43c-4bb9-a014-ec5325c7d758" />
 
